@@ -1,7 +1,7 @@
 :root {
-  --background: darkseagreen;
-  --text1: Black;
-  --text2: Black;
+  --background: #333;
+  --text1: White;
+  --text2: White;
 }
 
 button {
